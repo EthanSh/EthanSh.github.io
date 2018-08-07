@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1101" selection-start-column="1101" selection-end-column="1101" />
+              <caret column="1003" selection-start-column="1003" selection-end-column="1003" />
             </state>
           </provider>
         </entry>
@@ -89,8 +89,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -115,16 +115,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533651007736</updated>
-      <workItem from="1533651009193" duration="1690000" />
+      <workItem from="1533651009193" duration="1994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1690000" />
+    <option name="totallyTimeSpent" value="1994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -152,7 +151,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/logo.36f8596a.png">
+    <entry file="file://$PROJECT_DIR$/logo.36f8596a.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/logo.bb387c6e.JPG">
@@ -171,7 +170,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1101" selection-start-column="1101" selection-end-column="1101" />
+          <caret column="1003" selection-start-column="1003" selection-end-column="1003" />
         </state>
       </provider>
     </entry>
